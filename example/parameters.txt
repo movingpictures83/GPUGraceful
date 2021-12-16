@@ -1,0 +1,3 @@
+numnodes	12
+numperms	12000
+stops	stops.txt

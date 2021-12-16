@@ -1,0 +1,2 @@
+Prefix plugins/GPUGraceful/example
+Plugin GPUGraceful inputfile parameters.txt outputfile none
